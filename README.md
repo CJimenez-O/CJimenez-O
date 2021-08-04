@@ -6,7 +6,7 @@
 
 💪🏽Strengths: critical thinking, adaptive, communication, customer service and team collaboration.
 
-</> Languages: HTML, CSS, SASS, Flexbox, Material.ui, Styled-Components, JavaScript, ECMAScript, React hooks, Redux, Node, Puppeteer, Firebase, AuthO, Netlify
+</> Languages: HTML- CSS- SASS- Flexbox- Material.ui- Styled-Components- JavaScript- ECMAScript- React hooks- Redux- Node- Puppeteer- Firebase- AuthO- Netlify
 
 🎳My hobbies consist of playing basketball, bowling, paintball, gaming and skateboarding from time to time. 
 
